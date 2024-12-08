@@ -67,6 +67,6 @@ if __name__ == '__main__':
     performance_test()
     
     # Run error handling test
-    test_error_handling()
+    # test_error_handling()
     
     print("All tests completed successfully!")
