@@ -4,7 +4,7 @@ import json
 str1 = '''
 {
     "recomd_id": "rg1-w4wd_normal_1726785910_781597733",
-    "took": 6.0,
+    "took": 7.0,    # 我改了一個line
     "timed_out": false,
     "recomd_list": [
         {
